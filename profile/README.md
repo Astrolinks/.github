@@ -1,5 +1,5 @@
 ## Olá, somos a Astrolinks👋
-Somos uma empresa voltada ao desenvolvimento de Software com o intuito de conectar compradores e vendedores.
+Software para conectar compradores e vendedores.
 
 Nosso principal produto é a plataforma [Astrolinks](https://www.astrolinks.com.br/), um site pelo qual produtores e fornecedores podem acessar licitações públicas e privadas, realizar ofertas e fechar negócios, livres das dificuldades burocráticas. Nossa missão é atuar como um catalizador de negócios, e assim, (i) facilitar a busca e a interação de agentes econômicos, (ii) fomentar negócios regionais,  e, (iii) fortalecer a fluidez de capital (ao tornar oportunidades comerciais acessíveis a maior número de empresas). 
 <!--
